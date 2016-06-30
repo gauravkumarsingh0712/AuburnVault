@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\1.0.3\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0ea42614d0d3d5e9f507cb2f432ae821307cd0dc">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-293c7b6416d2bb4ee0806986ebef1487d8e45f4c.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\info.hoang8f\fbutton\1.0.5\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-f0613976867de7d7eb7f53bd4c9ea630a0ebe12f.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-d03abead41baf1ab8a1efebe2f3a073ba523202f.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\1.12.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9de57c4b86386c563a0f399222b891a3258b0549">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-eb08998fa48da42df544230734214e9a286c979e.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-fadf91d1d234aac8d80e91be560d1d9462571839.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\Android-BitmapCache-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5135a2e9412b190de0510afca97b27489d9b00b">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\Android-BitmapCache-2.3-78c7d458689f33d0e7addc36ff9bc52d1d15555f.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\AuburnVault\stickylistviewlibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e2eb1a357a1b0b9c4d995f4c266207c83d8b5ff">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-1a702c370181833f78079bdf350252b452267540.jar" />
+    </item>
+    <item
+        jar="C:\Users\gauravkumar.singh\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-3f71dc94e6dad7b9418d663b8bd8dc7aa4bb3f16.jar" />
+    </item>
+    <item
+        jar="C:\Users\gauravkumar.singh\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2-3f2c114a013de310f70f1146b557152ddc29d8dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\gauravkumar.singh\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-d7c0150b49b4fe52ff00f202ff6d2d5fc4c235c7.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\HockeySDK-3.5.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1efe66384574e45d281dcbf0cc2986cd9ebeddef">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\HockeySDK-3.5.0-a33ff897a3b09a5b87db926398c2c4fd1d3646ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\gauravkumar.singh\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-3f71dc94e6dad7b9418d663b8bd8dc7aa4bb3f16.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\AuburnVault\stickylistviewlibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="14e61d912827f0188f4d70e1a5a468c74faea499">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-1a702c370181833f78079bdf350252b452267540.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\AuburnVault\pullRefreshLibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d66e6db808004f8111c7d59889d20188b36cc49c">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-713a28eca7900f701270ff8e198448506e75bb53.jar" />
+    </item>
+    <item
+        jar="C:\Users\gauravkumar.singh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-025a407e4164c5b8ce5eb809dae3b207223f8d20.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\gcm.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\gcm-552255b8973589d92a9bc9e0e7f1a3029744d845.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-fadf91d1d234aac8d80e91be560d1d9462571839.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\volley-7cd38715422342d831a3173c3dbcd994145db36f.jar" />
+    </item>
+    <item
+        jar="C:\Users\gauravkumar.singh\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.8.0\a517f29ed06be2b2879524fcd94b6e9b36e2e0b5\retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\retrofit-1.8.0-4a9fafd897e31455afb3e9a928ed0bdce36e1069.jar" />
+    </item>
+    <item
+        jar="C:\Users\gauravkumar.singh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\gson-2.3-ecada9903eac5fedd48d08bf5dbe113c4112fafe.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\AuburnVault\indicatorlibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5974be53b39198d726ac7dc3d44cbdf8e8fc29a2">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-339f14c790de329654d6d234a88d65cc5a06a373.jar" />
+    </item>
+    <item
+        jar="C:\Users\gauravkumar.singh\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-d7c0150b49b4fe52ff00f202ff6d2d5fc4c235c7.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\info.hoang8f\fbutton\1.0.5\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-f0613976867de7d7eb7f53bd4c9ea630a0ebe12f.jar" />
+    </item>
+    <item
+        jar="C:\Users\gauravkumar.singh\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.8.0\a517f29ed06be2b2879524fcd94b6e9b36e2e0b5\retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\retrofit-1.8.0-4a9fafd897e31455afb3e9a928ed0bdce36e1069.jar" />
+    </item>
+    <item
+        jar="C:\Users\gauravkumar.singh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\gson-2.3-ecada9903eac5fedd48d08bf5dbe113c4112fafe.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\HockeySDK-3.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1efe66384574e45d281dcbf0cc2986cd9ebeddef">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\HockeySDK-3.5.0-a33ff897a3b09a5b87db926398c2c4fd1d3646ff.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\AF-Android-SDK-v2.3.1.19.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="006613162d0360881906c3f7d26b6371aa9a20b1">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\AF-Android-SDK-v2.3.1.19-8152ce1612731d0270661dabe90d11506af1f037.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\FlurryAnalytics-6.1.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="bed3029996f255004cb891ab61bd3a85a108f014">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\FlurryAnalytics-6.1.0-0309fa814e5897eb55e3aa0fb1fbd8ff93b1e3a9.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\Android-BitmapCache-2.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c5135a2e9412b190de0510afca97b27489d9b00b">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\Android-BitmapCache-2.3-78c7d458689f33d0e7addc36ff9bc52d1d15555f.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\disklrucache-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cdfda74b941164bbf3622347940ba0dd88d2dc91">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\disklrucache-2.0.1-7411dfa3c5a9582c8b6fdc54ad7d2943ceca1ee7.jar" />
+    </item>
+    <item
+        jar="C:\Users\gauravkumar.singh\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\twitter-text-1.13.0-407496886b245d651d9d261de9520ec3de33f7a1.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\gcm.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\gcm-552255b8973589d92a9bc9e0e7f1a3029744d845.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\1.6.4\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61807f257226cc1e6e2774d1e7a876260a808038">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-e8b40c86031bde54a4386fb6830574d993f462da.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-48d5c62a82b2a1ab8b133bd871439c8eae8bd009.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.10\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-05129c9f07acf4285b62e5f116c8aa7c5d66df11.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\com.digits.sdk.android\digits\1.9.3\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990cba7dbe7fc91e1082a9a8ea6d663c0741a0f1">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-df7f4c37df950be318901061838a8e31b0577f4f.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-d03abead41baf1ab8a1efebe2f3a073ba523202f.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\disklrucache-2.0.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="cdfda74b941164bbf3622347940ba0dd88d2dc91">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\disklrucache-2.0.1-7411dfa3c5a9582c8b6fdc54ad7d2943ceca1ee7.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\AuburnVault\indicatorlibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="5974be53b39198d726ac7dc3d44cbdf8e8fc29a2">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-339f14c790de329654d6d234a88d65cc5a06a373.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\progressbar_library.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ef73864a24c66c3893854205c17bc079629978a7">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\progressbar_library-1ae1debcb6974b6978abed9a2c7629efa91b66d6.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\FlurryAnalytics-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bed3029996f255004cb891ab61bd3a85a108f014">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\FlurryAnalytics-6.1.0-0309fa814e5897eb55e3aa0fb1fbd8ff93b1e3a9.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\volley-7cd38715422342d831a3173c3dbcd994145db36f.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-536d5957449546160496f3796dc5356a54edebc2.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\1.9.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a7f52baaf852010e82d127aa257c6a710a53fc9a">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-961bbbc1c8533b2cdf514a73b3e3cac00060a010.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\AuburnVault\pullRefreshLibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4197348891a6f64c20d4b21f6e73fc6709cbc1fa">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-713a28eca7900f701270ff8e198448506e75bb53.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-d03b31037d0c59d1d7d803ce52babc6f902decda.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\progressbar_library.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ef73864a24c66c3893854205c17bc079629978a7">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\progressbar_library-1ae1debcb6974b6978abed9a2c7629efa91b66d6.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\classes-86a07f77991b5fe532fe04b82683537de2d14af9.jar" />
+    </item>
+    <item
+        jar="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\libs\AF-Android-SDK-v2.3.1.19.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="006613162d0360881906c3f7d26b6371aa9a20b1">
+        <dex dex="D:\Company_project\Project\Gaurav Project\Android_AuburnVault\AuburnVault\app\build\intermediates\pre-dexed\debug\AF-Android-SDK-v2.3.1.19-8152ce1612731d0270661dabe90d11506af1f037.jar" />
+    </item>
+
+</items>
